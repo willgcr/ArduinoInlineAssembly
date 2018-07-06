@@ -3,8 +3,8 @@
 ## Project description
 
 
-Just a demonstration on how to use inline assembly code 
-with arduino
+Just a demonstration on how to use inline assembly code with arduino
+
 The board used was Uno-R3
 
 
